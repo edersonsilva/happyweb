@@ -1,6 +1,5 @@
-<h1 align="center">
-    <img alt="Happy" title="Happy" src="assets/happy.svg" />
-</h1>
+
+![Ederson Silva](https://raw.githubusercontent.com/rocketseat-education/nlw-03-omnistack/master/.github/happy.png)
 
 ### 💒 Projeto
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
@@ -60,7 +59,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://www.linkedin.com/in/edersonsilva/">
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/1870219?s=460&u=b796309053d581a334cf775039e74b2d563e7fd9&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Ederson Silva</b></sub></a> <a href="https://www.linkedin.com/in/edersonsilva/" title="Linkedin">🚀</a>
