@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/happy.png" />
+    <img alt="Happy" title="Happy" src="assets/happy.svg" />
 </h1>
 
 ### 💒 Projeto
